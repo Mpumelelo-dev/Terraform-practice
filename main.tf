@@ -19,13 +19,13 @@ terraform {
 locals {
   parameters = {
     token = {
-      value       = "secret123123!!!"
+      value       = "xxx"
       type        = "SecureString"
       tier        = "Advanced"
       description = "token"
     }
     apiKey = {
-      value       = "secret123123!!!"
+      value       = "xxxx"
       type        = "SecureString"
       tier        = "Advanced"
       description = "apiKey"

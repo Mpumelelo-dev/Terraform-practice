@@ -1,1 +1,1 @@
-# collections-alerts
+# Decrypted SSM tf script
